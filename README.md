@@ -1,6 +1,6 @@
 # test_tensorflow_and_keras
 
-Train cnn model in keras
+Train cnn model with keras
  
 # DEMO
 ```bash
